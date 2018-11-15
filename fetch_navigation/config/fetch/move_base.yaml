@@ -11,7 +11,6 @@ SisoLocalPlanner:
   min_vel_theta: -1.5
   min_in_place_vel_theta: 0.3
   holonomic_robot: false
-  velocity_curve: "classic"
 
 TrajectoryPlannerROS:
   acc_lim_x: 0.35
